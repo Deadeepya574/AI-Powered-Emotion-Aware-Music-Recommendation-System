@@ -1,4 +1,4 @@
-# AI-Powered-Emotion-Aware-Music-Recommendation-System 🎵
+# AI-Powered-Emotion-Aware-Music-Recommendation-System
 
 This project integrates AI-powered facial emotion recognition with a music recommendation system to create a dynamic and responsive user experience. The system detects the user's emotions in real-time and plays music that complements or contrasts their mood, aiming to enhance emotional well-being and provide a personalized listening experience.
 
