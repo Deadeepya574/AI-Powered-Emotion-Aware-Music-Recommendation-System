@@ -17,18 +17,15 @@ Furthermore, the system incorporates a voice assistant powered by Google's Gemin
 
 ## Table of Contents
 
-- [Project Title & Badges](#ai-powered-emotion-aware-music-recommendation-system-	)
-- [Description](#-description)
-- [Table of Contents](#-table-of-contents)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [How to Use](#-how-to-use)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Important Links](#-important-links)
-- [Footer](#-footer)
+- [Project Title & Badges](#ai-powered-emotion-aware-music-recommendation-system)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [How to Use](#how-to-use)
+- [Project Structure](#project-structure) 
+- [Important Links](#important-links) 
 
 ## Features
 
