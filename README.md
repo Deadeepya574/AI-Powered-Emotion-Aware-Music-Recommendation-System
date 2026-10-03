@@ -11,13 +11,13 @@ This project integrates Facial emotion recognition with a music recommendation s
 
 ## Description
 
-The AI-Powered Emotion-Aware Music Recommendation System is a sophisticated application that leverages real-time facial emotion detection to curate and play music tailored to the user's current emotional state. By analyzing facial expressions through the webcam, the system identifies emotions such as happiness, sadness, and neutrality. Based on this detection, it selects and plays appropriate music from categorized folders, aiming to either match the user's mood or offer a comforting or uplifting selection.
+The Emotion-Aware Music Recommendation System is a sophisticated application that leverages real-time facial emotion detection to curate and play music tailored to the user's current emotional state. By analyzing facial expressions through the webcam, the system identifies emotions such as happiness, sadness, and neutrality. Based on this detection, it selects and plays appropriate music from categorized folders, aiming to either match the user's mood or offer a comforting or uplifting selection.
 
 Furthermore, the system incorporates a voice assistant powered by Google's Gemini AI, enabling interactive conversations and task execution through voice commands. This dual functionality creates an immersive and intelligent user experience, bridging the gap between emotional awareness and personalized entertainment.
 
 ## Table of Contents
 
-- [Project Title & Badges](#ai-powered-emotion-aware-music-recommendation-system)
+- [Project Title & Badges](#emotion-aware-music-recommendation-system)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Features](#features)
